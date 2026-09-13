@@ -12,7 +12,7 @@ Computer Engineering Student at UADE
 
 ### working on
 
-**PLACE** — a surreal text-based horror game written in Python.
+👁️ **PLACE** — a surreal text-based horror game written in Python.
 
 A project I'm building to improve my Python skills and learn
 more about structuring and developing complete programs.
