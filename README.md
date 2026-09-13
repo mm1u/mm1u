@@ -5,6 +5,7 @@ Computer Engineering Student at UADE
 ### interests
 
 - Game development
+- Web development
 - Cybersecurity
 - AI
 - Software development
