@@ -1,11 +1,19 @@
-## hi, i'm miu!
+# about
 
-🎓 Computer Engineering Student at UADE  
-🎮 Learning game development  
-💻 Currently building things with Python
+Computer Engineering Student at UADE  
+
+### interests
+
+- Game development
+- Cybersecurity
+- AI
+- Software development
 
 ### working on
 
-👁️ **PLACE** — a surreal text-based horror game written in Python.
+**PLACE** — a surreal text-based horror game written in Python.
+
+A project I'm building to improve my Python skills and learn
+more about structuring and developing complete programs.
 
 > building things to learn how they work.
