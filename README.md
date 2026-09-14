@@ -18,3 +18,6 @@ A project I'm building to improve my Python skills and learn
 more about structuring and developing complete programs.
 
 > building things to learn how they work.
+
+
+[![My GitHub Stats](https://vercel.app)](https://github.com/mm1u/github-readme-stats)
