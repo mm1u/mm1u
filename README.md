@@ -1,16 +1,16 @@
-# about
+# About
 
 Computer Engineering Student at UADE  
 
-### interests
+### Interests
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+development;Web+development;Cybersecurity;AI;Software+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+development;Web+development;Cybersecurity;AI;Software+development&color=%237E3ACE&size=16)](https://git.io/typing-svg)
 
-### currently working on
+### Currently working on
 
 👁️ **PLACE** — a surreal text-based horror game written in Python.
 
 A project I'm building to improve my Python skills and learn
 more about structuring and developing complete programs.
 
-> building things to learn how they work.
+> Building things to learn how they work.
