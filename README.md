@@ -4,11 +4,7 @@ Computer Engineering Student at UADE
 
 ### interests
 
-- Game development
-- Web development
-- Cybersecurity
-- AI
-- Software development
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+development;Web+development;Cybersecurity;AI;Software+development)](https://git.io/typing-svg)
 
 ### currently working on
 
