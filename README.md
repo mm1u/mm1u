@@ -1,4 +1,6 @@
-![Header](https://github.com/mm1u/mm1u/raw/main/assets/header.png)
+<div align="center">
+  <img width="100%" src="assets/header.png">
+</div>
 
 # About
 
