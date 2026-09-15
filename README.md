@@ -1,3 +1,5 @@
+![Header](assets/header.png)
+
 # About
 
 Computer Engineering Student at UADE  
