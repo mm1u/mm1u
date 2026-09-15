@@ -8,7 +8,7 @@ Computer Engineering Student at UADE
 
 ### Interests
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👾%20Game%20development;🌐%20Web%20development;🔐%20Cybersecurity;🧠%20AI;💻%20Software%20development&color=%237E3ACE&size=16)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👾%20Game%20development;🌐%20Web%20development;🔐%20Cybersecurity;🧠%20AI;💻%20Software%20development&color=%237E3ACE&size=16)
 ### Currently working on
 
 👁️ **PLACE** — a psychological horror game, currently
