@@ -1,4 +1,4 @@
-![Header](assets/header.png)
+![Header](https://github.com/mm1u/mm1u/raw/main/assets/header.png)
 
 # About
 
