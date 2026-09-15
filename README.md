@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="assets/header.png">
+  <img width="100%" src="assets/purplecode_header_solid.gif">
 </div>
 
 # About
