@@ -4,7 +4,7 @@
 
 # About
 
-Computer Engineering Student at UADE  
+Computer Engineering Student
 
 ### Interests
 
